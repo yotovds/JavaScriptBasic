@@ -4,6 +4,6 @@ function rectangleArea (input){
     
     let area = a * b;
 
-    console.log(area);
+    return(area);
 }
-rectangleArea([2, 7]);
+// rectangleArea([2, 7]);
